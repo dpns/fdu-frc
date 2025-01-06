@@ -1,0 +1,38 @@
+<svg width="77" height="77" viewBox="0 0 77 77" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_197_5)">
+<mask id="mask0_197_5" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="77" height="77">
+<path d="M76.184 0H0V76.184H76.184V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_197_5)">
+<mask id="mask1_197_5" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="77" height="77">
+<path d="M76.184 0H0V76.184H76.184V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_197_5)">
+<mask id="mask2_197_5" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="77" height="77">
+<path d="M76.184 0H0V76.184H76.184V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_197_5)">
+<mask id="mask3_197_5" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="77" height="77">
+<path d="M76.184 0H0V76.184H76.184V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_197_5)">
+<mask id="mask4_197_5" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="77" height="77">
+<path d="M76.184 0H0V76.184H76.184V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_197_5)">
+<path d="M0 11.1841C0 8.42266 2.23858 6.18408 5 6.18408H25C27.7614 6.18408 30 8.42266 30 11.1841V31.1841C30 33.9455 27.7614 36.1841 25 36.1841H5C2.23858 36.1841 0 33.9455 0 31.1841V11.1841Z" fill="white"/>
+<path d="M0 51.1841C0 48.4227 2.23858 46.1841 5 46.1841H25C27.7614 46.1841 30 48.4227 30 51.1841V71.1841C30 73.9455 27.7614 76.1841 25 76.1841H5C2.23858 76.1841 0 73.9455 0 71.1841V51.1841Z" fill="#F9D57F"/>
+<path d="M37.5321 25.6396C35.48 23.7918 35.3143 20.6304 37.1621 18.5782L50.5447 3.71533C52.3924 1.66319 55.5539 1.4975 57.606 3.34525L72.4689 16.7279C74.5211 18.5756 74.6868 21.7371 72.839 23.7892L59.4564 38.6521C57.6087 40.7043 54.4472 40.87 52.395 39.0222L37.5321 25.6396Z" fill="#FF6250"/>
+<path d="M40 51.1841C40 48.4227 42.2386 46.1841 45 46.1841H65C67.7614 46.1841 70 48.4227 70 51.1841V71.1841C70 73.9455 67.7614 76.1841 65 76.1841H45C42.2386 76.1841 40 73.9455 40 71.1841V51.1841Z" fill="#5160F9"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_197_5">
+<rect width="76.184" height="76.184" fill="white"/>
+</clipPath>
+</defs>
+</svg>
